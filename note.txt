@@ -1,0 +1,5 @@
+**creating from stratch
+    npm create vite@latest my-app -- --template react
+
+**creating a nexted folder
+    npm create vite@latest . -- --template react
